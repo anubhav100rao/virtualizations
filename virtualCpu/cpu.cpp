@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#include "common.h"
+#include "../common.h"
 
 int main(int argc, char* argv[]) {
     if(argc < 2) {
